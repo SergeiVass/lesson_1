@@ -1,0 +1,13 @@
+def enter_number(num):
+   print(num)
+enter_number(8)
+enter_number(8)
+enter_number(0)
+enter_number(0)
+enter_number(5)
+enter_number(5)
+enter_number(5)
+enter_number(3)
+enter_number(5)
+enter_number(3)
+enter_number(5)
